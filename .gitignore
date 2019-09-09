@@ -5,3 +5,5 @@
 *.a
 
 examples/arduino-blink/.pio/build/
+
+examples/espidf-blink/.pio/build/
