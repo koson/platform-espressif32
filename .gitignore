@@ -1,1 +1,7 @@
 *.pyc
+
+*.o
+
+*.a
+
+examples/arduino-blink/.pio/build/
